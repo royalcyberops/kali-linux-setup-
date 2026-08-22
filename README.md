@@ -1,4 +1,19 @@
-# Kali Linux Setup Guide
+<div align="center">
+
+# 🐉 Kali Linux Installation & Setup in VirtualBox
+
+**A beginner-friendly, step-by-step guide to installing, configuring, updating,
+and verifying Kali Linux for cybersecurity learning and authorized security
+testing.**
+
+[![OS](https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Virtualization](https://img.shields.io/badge/Virtualization-Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+[![Level](https://img.shields.io/badge/Level-Beginner--Friendly-2EA043?style=for-the-badge)](#choose-your-path)
+[![License](https://img.shields.io/badge/License-MIT-2EA043?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
 
 A practical, security-conscious guide for building a Kali Linux learning lab in
 Oracle VirtualBox. It favors reversible changes, official downloads, and
